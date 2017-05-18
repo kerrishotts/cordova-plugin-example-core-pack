@@ -1,5 +1,5 @@
 {
-  "name": "core-plugins",
+  "name": "cordova-plugin-example-core-pack",
   "version": "0.0.1",
   "description": "Some core Cordova plugins",
   "cordova": {
