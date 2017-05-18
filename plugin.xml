@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-example-core-pack" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>core-plugins</name>
+    <description>Some core Cordova plugins</description>
+    <author>Kerri Shotts</author>
+    <keywords>
+        cordova:ecosystem, phonegap:ecosystem, plugin-pack, example
+    </keywords>
+    <dependency id="cordova-plugin-camera" version="^2.0.0" />
+    <dependency id="cordova-plugin-statusbar" version="^2.0.0" />
+</plugin>

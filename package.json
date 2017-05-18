@@ -1,0 +1,18 @@
+{
+  "name": "core-plugins",
+  "version": "0.0.1",
+  "description": "Some core Cordova plugins",
+  "cordova": {
+    "id": "cordova-plugin-example-core-pack",
+    "platforms": []
+  },
+  "keywords": [
+    "cordova:ecosystem",
+    "phonegap:ecosystem",
+    "plugin-pack",
+    "example",
+    "ecosystem:cordova"
+  ],
+  "author": "Kerri Shotts",
+  "license": "ISC"
+}
